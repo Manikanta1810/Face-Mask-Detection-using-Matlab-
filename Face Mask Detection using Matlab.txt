@@ -1,9 +1,4 @@
 %FACE MASK DETECTION
-%Manikanta N_3BR18EC071
-%N Likitha_3BR18EC079
-%Naseer Ahammed S A_3BR18EC083
-%Nikhita D_3BR18EC088
-%Guide_Dr.K M Sadyojatha
 
 clc
 clear 
